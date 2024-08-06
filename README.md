@@ -16,4 +16,4 @@ By training approximately 8% of the original parameters, over 90% accuracy is ac
 
 Training loss over the last 30 epochs also shown below:
 
-![Loss](https://github.com/hamza-dev-12/Tuning-Classifier-Is-ALL-You-Need.git/main/loss.png)
+![Loss](https://github.com/hamza-dev-12/Tuning-Classifier-Is-ALL-You-Need/blob/master/loss.png)
